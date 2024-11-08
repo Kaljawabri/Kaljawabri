@@ -17,9 +17,4 @@ You can click the Preview link to take a look at your changes.
 - **Tools & Technologies**: Git, Docker, AWS Rekognition, AutoML
 - **Soft Skills**: Leadership, Project Management, Customer Service
 
-## 👋 Welcome to My GitHub Profile!
-
-### My Portfolio Projects
-- **[IntelliCart AI Recommender](https://github.com/YourUsername/IntelliCart)**: AI-driven product recommendation system.
-- **[X-Ray Image Classification](https://github.com/YourUsername/XRay-Classification)**: Medical diagnostic tool for pneumonia classification.
 
