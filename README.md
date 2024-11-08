@@ -42,8 +42,6 @@ IntelliCart is a recommendation system designed to personalize shopping experien
 - **Business Impact**: Increased average order value by 15%.
 - **Accuracy**: Achieved 85% precision in product recommendations.
 
-#### Repository
-- [View the code here](https://github.com/YourUsername/IntelliCart)
 
 ---
 
