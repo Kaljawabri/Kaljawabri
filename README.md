@@ -17,18 +17,9 @@ You can click the Preview link to take a look at your changes.
 - **Tools & Technologies**: Git, Docker, AWS Rekognition, AutoML
 - **Soft Skills**: Leadership, Project Management, Customer Service
 
-# Project Title
-## Project Overview
-Describe the goal of the project, what problem it solves, and any key results.
+## 👋 Welcome to My GitHub Profile!
 
-## Technologies Used
-- List of technologies and skills involved (e.g., AWS Rekognition, Python, Machine Learning)
+### My Portfolio Projects
+- **[IntelliCart AI Recommender](https://github.com/YourUsername/IntelliCart)**: AI-driven product recommendation system.
+- **[X-Ray Image Classification](https://github.com/YourUsername/XRay-Classification)**: Medical diagnostic tool for pneumonia classification.
 
-## Key Features
-- Briefly describe the main features of your project.
-
-## Getting Started
-Instructions on how to clone, set up, and run the project locally.
-
-## Results (optional)
-Include key metrics or results that show the project’s impact, like F1 scores or user feedback.
