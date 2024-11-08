@@ -32,4 +32,26 @@ You can click the Preview link to take a look at your changes.
 - **Skills Used**: Data Annotation, AWS Rekognition, AutoML
 - **Key Outcomes**: Built a reliable dataset and achieved 90% accuracy in preliminary testing.
 
+# IntelliCart - AI/ML Product Recommendation System
+
+## Project Description
+IntelliCart is a recommendation system designed to personalize shopping experiences in real time. This system helps e-commerce platforms increase revenue by suggesting relevant products to users.
+
+## Technology Stack
+- Python, AWS Rekognition, AutoML, Scikit-Learn
+
+## Key Features
+- **Real-Time Recommendations**: Provides suggestions based on user activity.
+- **Cart Abandonment Reduction**: Analyzes cart history to encourage purchases.
+
+## Skills Demonstrated
+- **AI Product Management**: Managed the development and strategy of this AI solution.
+- **AWS Rekognition & AutoML**: Utilized for model training and deployment.
+
+## Outcomes
+- **Business Impact**: Increased average order value by 15%.
+- **Accuracy**: Achieved 85% precision in product recommendations.
+
+## Repository
+- [View the code here](https://github.com/YourUsername/IntelliCart)
 
