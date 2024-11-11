@@ -2,17 +2,17 @@
 **AI Product Manager | Retail & Hospitality Expert | Digital Freelancer**
 
 ## 📄 [Download My Resume](https://github.com/Kaljawabri/Kaljawabrik/blob/main/Khalid%20Al%20Jawabri.pdf)
+👋 Hi, I’m @Kaljawabri  
+👀 I’m interested in AI/ML, product management, and creating impactful digital solutions in retail and hospitality.  
+🌱 I’m currently learning how to measure AI/ML model impact, improve product recommendations, and optimize customer experiences.  
+💞️ I’m looking to collaborate on AI-driven projects, especially in product personalization and data annotation for healthcare applications.   
+😄 Pronouns: He/Him  
+⚡ Fun fact: I enjoy blending culture and play, and I’m currently planning a café that brings people together through cultural exchange and fun activities!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/kaljawabri/)   
 📧 **Email**: khalid.aljwabri@gmail.com  
 📍 **Location**: Muscat, Oman  
 
-👋 Hi, I’m @Kaljawabri  
-👀 I’m interested in AI/ML, product management, and creating impactful digital solutions in retail and hospitality.  
-🌱 I’m currently learning how to measure AI/ML model impact, improve product recommendations, and optimize customer experiences.  
-💞️ I’m looking to collaborate on AI-driven projects, especially in product personalization and data annotation for healthcare applications.  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I enjoy blending culture and play, and I’m currently planning a café that brings people together through cultural exchange and fun activities!  
 ---
 
 ### **Profile**
