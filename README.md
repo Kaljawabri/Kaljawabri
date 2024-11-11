@@ -1,7 +1,7 @@
 # Khalid Ali Aljawabri
 **AI Product Manager | Retail & Hospitality Expert | Digital Freelancer**
 
-## 📄 [Download My Resume](https://github.com/Kaljawabri/Kaljawabrik/blob/main/Khalid%20Al%20Jawabri.pdf)
+
 👋 Hi, I’m @Kaljawabri  
 👀 I’m interested in AI/ML, product management, and creating impactful digital solutions in retail and hospitality.  
 🌱 I’m currently learning how to measure AI/ML model impact, improve product recommendations, and optimize customer experiences.  
@@ -204,4 +204,4 @@ A business-impact-focused project aimed at measuring and improving AI model effe
 - Worked as part of the opening teams for Shake Shack, American Eagle, and IKEA.
 - Managed large teams and operational processes, ensuring excellence in customer service and cost management across various sectors including retail, F&B, and hospitality.
 ---
-
+## 📄 [Download My Resume](https://github.com/Kaljawabri/Kaljawabrik/blob/main/Khalid%20Al%20Jawabri.pdf)
