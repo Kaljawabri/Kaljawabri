@@ -200,6 +200,7 @@ A business-impact-focused project aimed at measuring and improving AI model effe
 
 ### **Additional Information**
 - Worked as part of the opening teams for Shake Shack, American Eagle, and IKEA.
--Managed large teams and operational processes, ensuring excellence in customer service and cost management across various sectors including retail, F&B, and hospitality.
+- 
+- Managed large teams and operational processes, ensuring excellence in customer service and cost management across various sectors including retail, F&B, and hospitality.
 ---
 
