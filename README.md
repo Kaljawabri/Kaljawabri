@@ -1,6 +1,8 @@
 # Khalid Ali Aljawabri
 **AI Product Manager | Retail & Hospitality Expert | Digital Freelancer**
-![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![AWS](https://img.shields.io/badge/AWS-cloud-orange)
+![Canva](https://img.shields.io/badge/Canva-design-blue)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/kaljawabri/)   
