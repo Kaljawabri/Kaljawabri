@@ -1,4 +1,7 @@
 # Khalid Ali Aljawabri
+### Hi there! 👋 I'm Khalid Al Jawabri
+**AI Product Manager | Retail & Hospitality Expert | Digital Freelancer**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/kaljawabri/)   
 📧 **Email**: khalid.aljwabri@gmail.com  
