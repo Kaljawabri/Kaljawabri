@@ -80,7 +80,6 @@ Dedicated and results-driven professional with extensive experience in retail an
 - **Shake Shack Training Completion** | 2016
 - **High School Diploma** - Oman University | 2008
 - **Digital Freelancer Nanodegree** - Udacity | 2024  
-   [Certificate](https://www.udacity.com/certificate/e/8b9667f4-9217-11ef-a7e5-274565a86d84)
 
 ---
 
