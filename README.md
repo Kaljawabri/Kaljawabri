@@ -115,7 +115,7 @@ A healthcare-focused AI project to classify X-ray images as healthy or pneumonia
 A dataset labeling project for training models to identify healthy versus pneumonia-affected X-ray images. Categorizes images into healthy, pneumonia, or uncertain to enhance diagnostic accuracy.
 
 #### Technology Stack
-- **Appen Platform**, **Python**, **HTML (Job Preview)**
+- **Appen Platform**, **Python**, **HTML**
 
 #### Key Features
 - **Custom Annotation Pipeline**: Created labels and quality control processes for data integrity.
@@ -200,6 +200,6 @@ A business-impact-focused project aimed at measuring and improving AI model effe
 
 ### **Additional Information**
 - Worked as part of the opening teams for Shake Shack, American Eagle, and IKEA.
-
+-Managed large teams and operational processes, ensuring excellence in customer service and cost management across various sectors including retail, F&B, and hospitality.
 ---
 
