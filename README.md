@@ -1,5 +1,7 @@
 # Khalid Ali Aljawabri
 **AI Product Manager | Retail & Hospitality Expert | Digital Freelancer**
+![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/kaljawabri/)   
 📧 **Email**: khalid.aljwabri@gmail.com  
