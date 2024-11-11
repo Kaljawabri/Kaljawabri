@@ -1,7 +1,7 @@
 # Khalid Ali Aljawabri
 **AI Product Manager | Retail & Hospitality Expert | Digital Freelancer**
 
-## 📄 [Download My Resume](https://github.com/Kaljawabri/Kaljawabrik/blob/main/Khalid%20Al%20Jawabri.pdf]
+## 📄 [Download My Resume](https://github.com/Kaljawabri/Kaljawabrik/blob/main/Khalid%20Al%20Jawabri.pdf)
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 
