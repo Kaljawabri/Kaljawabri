@@ -1,20 +1,30 @@
+name: Build and Test
+
+on:
+  push:
+    branches:
+      - main  # This will trigger the workflow when pushing to the 'main' branch
+  pull_request:
+    branches:
+      - main  # This will trigger the workflow on pull requests to the 'main' branch
+
 jobs:
   build:
-    runs-on: ubuntu-22.04  # or ubuntu-24.04, depending on your preference
+    runs-on: ubuntu-latest  # Use the latest Ubuntu runner
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2  # Checks out the code from your repository
 
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.8
+          python-version: 3.8  # You can change this to the version of Python or other language you're using
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install -r requirements.txt  # Installs the dependencies listed in your requirements.txt
 
       - name: Run tests
         run: |
-          pytest
+          pytest  # Replace this with your testing command, if it's not pytest
